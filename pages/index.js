@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="UNDER CONSTRUCTION" />
         <p className="description">
-          Go to check <a href="https://cryptocharity.biz.id">Crypto Care</a>.
+          Please visit my other projects at <a href="https://cryptocharity.biz.id"> Crypto Care</a>.
         </p>
       </main>
 
