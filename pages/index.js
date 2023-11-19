@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="Under Construction." />
         <p className="description">
-          You can see my other projects. <link rel="stylesheet" href="https://cryptocharity.biz.id" />
+          You can see my other projects. <link rel="stylesheet" href="https://cryptocharity.biz.id" /> Oke
         </p>
       </main>
 
