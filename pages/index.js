@@ -11,9 +11,9 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Under Construction." />
+        <Header title="UNDER CONSTRUCTION" />
         <p className="description">
-          You can see my other projects. <link rel="stylesheet" href="https://cryptocharity.biz.id" /> Oke
+          Go to check <a href="https://cryptocharity.biz.id">Crypto Care</a>.
         </p>
       </main>
 
